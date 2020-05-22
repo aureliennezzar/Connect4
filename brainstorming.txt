@@ -1,0 +1,9 @@
+type crypto : generateur de mdp, encryption message
+
+encryption de dossiers
+
+jeux idle
+
+jeu de plateau
+
+puissance 4
